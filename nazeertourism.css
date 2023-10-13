@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-Home {
+    background-image: url("https://resources.news.e.abb.com/images/2021/12/8/0/Gallery_2.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    font-family: "Roboto";
+}
+
+.home-containerInfo {
+    background-color: transparent;
+    border-color: #ffffff;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.heading-home {
+    color: #cdfaf1;
+    font-weight: 500;
+    font-size: 50px;
+}
+
+.paragraph-home {
+    color: #a9d6c6;
+}
+
+.bg-container-fave-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    width: 100vw;
+    padding: 15px;
+}
+
+.heading-favorite {
+    font-family: "Roboto";
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.bg-container-fav-card {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+
+.fav-card-place-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.fav-card-place-para {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 200;
+}
+
+.image-place-fav {
+    margin-top: 20px;
+    padding: 10px;
+    height: 160px;
+    width: 100px;
+    text-align: right;
+}
+
+.heading-card-detailed {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.span-head {
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.buttonBack {
+    color: #ffffff;
+    font-family: "Roboto";
+    margin-top: 15px;
+}
+
+.unoderList {
+    list-style-type: circle;
+}
